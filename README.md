@@ -1,4 +1,4 @@
-# House-Prises
+# House Prices
 🏡 House Prices: Advanced Regression Techniques
 Competition overview
 Predict the sale price for residential homes in Ames, Iowa using a rich dataset of 79+ features—ranging from lot size and building year to neighborhood and condition—requiring advanced feature engineering and regression methods 
